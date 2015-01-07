@@ -3,6 +3,9 @@ Facebook-Collection
 
 This tool Auto collection contact of facebook user by phone number.
 
+Require:
+Database: mongodb
+
 step use this tool:
 
 1. the firt you need get 'Authorization' of your user by login to your facebook account on emulator device "android" and config your emulator over a proxy "burpsuite", to get 'Authorization'. How to config your device over emulator you can looking on google.
